@@ -58,9 +58,6 @@ If you would like access to view or review the full source code:
 
 ## 📸 Screenshots
 
----
-## 📸 Screenshots
-
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/3cc2f98b-6418-4726-b162-8e8c0aa1158f" width="250" alt="Screenshot 1"/>
